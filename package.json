@@ -10,7 +10,6 @@
   },
   "private": true,
   "workspaces": [
-    "caddy-redirects-conf/*",
-    "title-to-frontmatter/*"
+    "packages/*"
   ]
 }
