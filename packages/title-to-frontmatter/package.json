@@ -34,5 +34,6 @@
   },
   "scripts": {
     "test": "mocha 'test/**/*.coffee'"
-  }
+  },
+  "gitHead": "421bd55d22dbf603f78d0be5da7f150c17d2b66a"
 }

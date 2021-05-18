@@ -10,5 +10,6 @@
     "gatsby": "^3.0.0"
   },
   "license": "MIT",
-  "scripts": {}
+  "scripts": {},
+  "gitHead": "421bd55d22dbf603f78d0be5da7f150c17d2b66a"
 }
