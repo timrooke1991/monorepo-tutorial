@@ -23,6 +23,7 @@ module.exports = async (
         markdownNode.frontmatter.title = toText(hast)
         markdownNode.frontmatter.titleHtml = toHtml(hast)
       }
+      console.log('this output');
       markdownAST.children.shift()
     }
   }
