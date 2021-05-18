@@ -6,7 +6,7 @@
   "author": "Tim Rooke <timrooke1991@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^3.22.1"
   },
   "private": true,
   "workspaces": [

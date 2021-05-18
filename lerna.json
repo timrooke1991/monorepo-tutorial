@@ -2,10 +2,6 @@
   "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "packages": [
-    "caddy-redirects-conf/*",
-    "title-to-frontmatter/*"
-  ],
   "command": {
     "version": {
       "message": "chore(release): publish"
