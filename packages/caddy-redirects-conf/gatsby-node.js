@@ -18,7 +18,6 @@ exports.onPostBuild = async ({ store }, pluginOptions) => {
       statusCode,
       ...rest
     } = redirect
-
     let status = isPermanent ? `301` : `302`
     if (statusCode) status = statusCode
     const pieces = [fromPath, toPath, status]
