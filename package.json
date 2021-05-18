@@ -10,7 +10,7 @@
   },
   "private": true,
   "workspaces": [
-    "gatsby/*",
-    "gatsby-remark/*"
+    "caddy-redirects-conf/*",
+    "title-to-frontmatter/*"
   ]
 }
