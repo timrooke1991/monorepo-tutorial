@@ -13,7 +13,6 @@ exports.onPostBuild = async ({ store }, pluginOptions) => {
     const {
       fromPath,
       isPermanent,
-      // redirectInBrowser, // eslint-disable-line no-unused-vars
       toPath,
       statusCode,
       ...rest
