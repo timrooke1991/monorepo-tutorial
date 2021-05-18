@@ -4,5 +4,8 @@
   "description": "Testing out monorepo setup",
   "main": "index.js",
   "author": "Tim Rooke <timrooke1991@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
 }
