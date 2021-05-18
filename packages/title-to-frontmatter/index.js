@@ -13,7 +13,7 @@ module.exports = async (
       .split(process.cwd())
       .pop()
       .replace(/^\//, '')
-    // Skip node if not included - is this required?
+    // Skip node if not included - is this required? er
     if (!mm.isMatch(filePath, include)) { return }
   }
   if(!markdownNode.frontmatter.noTitleToFrontmatter){
