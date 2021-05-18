@@ -1,0 +1,8 @@
+{
+  "name": "monorepo-gatsby-plugins",
+  "version": "0.0.0",
+  "description": "Testing out monorepo setup",
+  "main": "index.js",
+  "author": "Tim Rooke <timrooke1991@gmail.com>",
+  "license": "MIT"
+}
