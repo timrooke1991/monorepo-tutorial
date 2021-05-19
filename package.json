@@ -25,6 +25,7 @@
     }
   },
   "scripts": {
+    "test": "lerna run test",
     "postinstall": "husky install"
   }
 }
